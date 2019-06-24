@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 24 17:54:15 2019
 
-@author: c62wt96
-"""
 
 import numpy as np
 import sys
